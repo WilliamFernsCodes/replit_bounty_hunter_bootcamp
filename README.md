@@ -5,9 +5,8 @@
 ![HTML&CSS](https://img.shields.io/badge/HTML-CSS-blue)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design_Course-red)](https://freecodecamp.com/learn)
 
-![Replit Bounty Hunter Quickstart](./assets/screenshot1.png)
-
-![screenshot](./assets/screenshot2.png)
+![screenshot1](./assets/screenshot1.png)
+![screenshot2](./assets/screenshot2.png)
 
 A simple website, made with HTML and CSS, to get new Replit bounty hunters on the role, giving them the best chance of success.
 
